@@ -1,0 +1,75 @@
+# =====================
+# Flutter / Dart
+# =====================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+pubspec.lock
+
+# =====================
+# Build outputs
+# =====================
+build/
+*.apk
+*.aab
+*.ipa
+*.app
+
+# =====================
+# Android
+# =====================
+android/.gradle/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+**/android/key.properties
+*.jks
+*.keystore
+
+# =====================
+# iOS
+# =====================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+*.xcworkspace
+Podfile.lock
+
+# =====================
+# Hive Local Data
+# =====================
+*.hive
+*.lock
+
+# =====================
+# IDE & OS
+# =====================
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================
+# Logs & Analysis
+# =====================
+*.log
+analysis.txt
+devtools_options.yaml
+
+# =====================
+# Coverage & Testing
+# =====================
+coverage/
+.dart_tool/test_driver/
