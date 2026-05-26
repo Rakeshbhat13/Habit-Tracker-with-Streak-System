@@ -4,12 +4,6 @@ A Flutter mobile application that helps users build and maintain consistent dail
 
 ---
 
-## 📱 Screenshots
-
-> Add screenshots here after running the app
-
----
-
 ## ✨ Features
 
 - **Habit Management** — Create, edit, and delete habits with custom title, description, category, icon, color, and frequency
