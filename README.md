@@ -134,17 +134,6 @@ percent_indicator: ^4.2.3
 uuid: ^4.3.3
 intl: ^0.19.0
 ```
-
----
-
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| Rakesh Bhat | App Development |
-| B G Bharadwaj | UI & Screens |
-| Jnanamshu K | Services & Storage |
-
 ---
 
 ## 📄 License
